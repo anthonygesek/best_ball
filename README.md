@@ -1,9 +1,16 @@
-There is only one way to play in a "Best Ball" fantasy baseball league right now and it is a pay site.  This project was an idea I had to create a "Best Ball" league for free with your friends.  "Best Ball" is a style of fantasy baseball that requires little to no in season management.  The idea is that you draft a team and then let an algorithm calculate the lineup that maximizes a team's points for the day/week/month.  
+# Lazy Fantasy Baseball, for Free
 
-This code so far is capable of pulling and storing the stats for a list of players for any day of the baseball season.  The two pices that I haven't finished are:
+"Best Ball" is a style of fantasy baseball that requires little to no in-season management. You draft a team, then let an algorithm calculate the lineup that maximizes a team's points for the day/week/month.  
 
-1) connecting to a better database than excell workbooks for storage and retreival of the stats data
+Right now, you can only play Best Ball if you pay for it. This project is an attempt to recreate this style of play for free. 
 
-2) the maximizing algorithm is not finished yet.
+## PHASE 1 - Complete!
+Code can pull and store the stats for a list of players for any day of the baseball season and calculate the points that they would generate. Basic discovery around the maximizing algorithm.
 
-Any input is greately appreciated!
+## PHASE 2 - In Progress
+Connect to a better database than Excel workbooks for storage and retreival of stats data (i.e. SQL), and complete the maximizing algorithm.
+
+
+
+Any input is greatly appreciated!
+ 
