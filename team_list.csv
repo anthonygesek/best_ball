@@ -1,71 +1,71 @@
 ,Team,name,id,yahoo_pos
-0,Smoak Me A Kingery,Gary Sanchez,596142.0,C
-1,Smoak Me A Kingery,Cody Bellinger,641355.0,"1B, OF"
-2,Smoak Me A Kingery,Whit Merrifield,593160.0,"2B, OF"
-3,Smoak Me A Kingery,Mike Moustakas,519058.0,3B
-4,Smoak Me A Kingery,Corey Seager,608369.0,SS
-5,Smoak Me A Kingery,Mitch Haniger,571745.0,OF
-6,Smoak Me A Kingery,Kris Bryant,592178.0,"3B, OF"
-7,Smoak Me A Kingery,Michael Conforto,624424.0,OF
-8,Smoak Me A Kingery,Scott Kingery,664068.0,"2B, 3B, OF"
-9,Smoak Me A Kingery,Justin Smoak,475253.0,1B
-10,Smoak Me A Kingery,Corey Dickerson,572816.0,OF
-11,Smoak Me A Kingery,Lance Lynn,458681.0,SP
-12,Smoak Me A Kingery,Gerrit Cole,543037.0,SP
-13,Smoak Me A Kingery,Edwin Diaz,621242.0,RP
-14,Smoak Me A Kingery,Ken Giles,571704.0,RP
-15,Smoak Me A Kingery,Zach Davies,605200.0,SP
-16,Smoak Me A Kingery,Sean Newcomb,656794.0,SP
-17,Smoak Me A Kingery,James Paxton,572020.0,SP
-18,Smoak Me A Kingery,Jake Junis,596001.0,SP
-19,Smoak Me A Kingery,Jose Quintana,500779.0,SP
-20,Smoak Me A Kingery,Zack Wheeler,554430.0,SP
-21,Smoak Me A Kingery,Jack Flaherty,656427.0,SP
-22,Flyin Castillo Bros.,Welington Castillo,456078.0,C
-23,Flyin Castillo Bros.,Joey Votto,458015.0,1B
-24,Flyin Castillo Bros.,Ozzie Albies,645277.0,2B
-25,Flyin Castillo Bros.,Freddie Freeman,518692.0,"1B, 3B"
-26,Flyin Castillo Bros.,Trea Turner,607208.0,SS
-27,Flyin Castillo Bros.,Rhys Hoskins,656555.0,"1B, OF"
-28,Flyin Castillo Bros.,Jose Martinez,500874.0,"1B, OF"
-29,Flyin Castillo Bros.,Teoscar Hernandez,606192.0,OF
-30,Flyin Castillo Bros.,Kyle Seager,572122.0,3B
-31,Flyin Castillo Bros.,Ronald Acuna,,OF
-32,Flyin Castillo Bros.,Carlos Carrasco,471911.0,SP
-33,Flyin Castillo Bros.,Luke Weaver,596133.0,SP
-34,Flyin Castillo Bros.,Bud Norris,502032.0,"SP, RP"
-35,Flyin Castillo Bros.,Brad Boxberger,502202.0,RP
-36,Flyin Castillo Bros.,Chad Green,643338.0,"SP, RP"
-37,Flyin Castillo Bros.,Walker Buehler,621111.0,SP
-38,Flyin Castillo Bros.,J.A. Happ,457918.0,SP
-39,Flyin Castillo Bros.,Kenta Maeda,628317.0,SP
-40,Flyin Castillo Bros.,Luis Castillo,622491.0,SP
-41,Flyin Castillo Bros.,Zack Godley,643327.0,SP
-42,Flyin Castillo Bros.,Garrett Richards,572070.0,SP
-43,Flyin Castillo Bros.,Luiz Gohara,627894.0,SP
-44,Flyin Castillo Bros.,Madison Bumgarner,518516.0,SP
-45,Flyin Castillo Bros.,Alex Reyes,621052.0,"SP, RP"
-46,Red Bat and Blue Bat,Buster Posey,457763.0,"C, 1B"
-47,Red Bat and Blue Bat,Paul Goldschmidt,502671.0,1B
-48,Red Bat and Blue Bat,DJ LeMahieu,518934.0,2B
-49,Red Bat and Blue Bat,Marwin Gonzalez,503556.0,"1B, 2B, 3B, SS, OF"
-50,Red Bat and Blue Bat,Manny Machado,592518.0,"3B, SS"
-51,Red Bat and Blue Bat,Bryce Harper,547180.0,OF
-52,Red Bat and Blue Bat,Carlos Santana,467793.0,1B
-53,Red Bat and Blue Bat,Derek Dietrich,518618.0,2B
-54,Red Bat and Blue Bat,Hanley Ramirez,434670.0,1B
-55,Red Bat and Blue Bat,Kevin Pillar,607680.0,OF
-56,Red Bat and Blue Bat,Salvador Perez,521692.0,C
-57,Red Bat and Blue Bat,Justin Turner,457759.0,3B
-58,Red Bat and Blue Bat,Alex Wood,622072.0,SP
-59,Red Bat and Blue Bat,Miles Mikolas,571945.0,SP
-60,Red Bat and Blue Bat,Addison Reed,592665.0,RP
-61,Red Bat and Blue Bat,Brandon Kintzler,445213.0,RP
-62,Red Bat and Blue Bat,Archie Bradley,605151.0,"SP, RP"
-63,Red Bat and Blue Bat,Keone Kela,605309.0,RP
-64,Red Bat and Blue Bat,Mike Clevinger,605182.0,SP
-65,Red Bat and Blue Bat,Marcus Stroman,573186.0,SP
-66,Red Bat and Blue Bat,Jeff Samardzija,502188.0,SP
-67,Red Bat and Blue Bat,Chris Archer,502042.0,SP
-68,Red Bat and Blue Bat,Jameson Taillon,592791.0,SP
-69,Red Bat and Blue Bat,Jimmy Nelson,519076.0,SP
+0,Smoak Me A Kingery,Gary Sanchez,596142,C
+1,Smoak Me A Kingery,Cody Bellinger,641355,"1B, OF"
+2,Smoak Me A Kingery,Whit Merrifield,593160,"2B, OF"
+3,Smoak Me A Kingery,Mike Moustakas,519058,3B
+4,Smoak Me A Kingery,Corey Seager,608369,SS
+5,Smoak Me A Kingery,Mitch Haniger,571745,OF
+6,Smoak Me A Kingery,Kris Bryant,592178,"3B, OF"
+7,Smoak Me A Kingery,Michael Conforto,624424,OF
+8,Smoak Me A Kingery,Scott Kingery,664068,"2B, 3B, OF"
+9,Smoak Me A Kingery,Justin Smoak,475253,1B
+10,Smoak Me A Kingery,Corey Dickerson,572816,OF
+11,Smoak Me A Kingery,Lance Lynn,458681,SP
+12,Smoak Me A Kingery,Gerrit Cole,543037,SP
+13,Smoak Me A Kingery,Edwin Diaz,621242,RP
+14,Smoak Me A Kingery,Ken Giles,571704,RP
+15,Smoak Me A Kingery,Zach Davies,605200,SP
+16,Smoak Me A Kingery,Sean Newcomb,656794,SP
+17,Smoak Me A Kingery,James Paxton,572020,SP
+18,Smoak Me A Kingery,Jake Junis,596001,SP
+19,Smoak Me A Kingery,Jose Quintana,500779,SP
+20,Smoak Me A Kingery,Zack Wheeler,554430,SP
+21,Smoak Me A Kingery,Jack Flaherty,656427,SP
+22,Flyin Castillo Bros.,Welington Castillo,456078,C
+23,Flyin Castillo Bros.,Joey Votto,458015,1B
+24,Flyin Castillo Bros.,Ozzie Albies,645277,2B
+25,Flyin Castillo Bros.,Freddie Freeman,518692,"1B, 3B"
+26,Flyin Castillo Bros.,Trea Turner,607208,SS
+27,Flyin Castillo Bros.,Rhys Hoskins,656555,"1B, OF"
+28,Flyin Castillo Bros.,Jose Martinez,500874,"1B, OF"
+29,Flyin Castillo Bros.,Teoscar Hernandez,606192,OF
+30,Flyin Castillo Bros.,Kyle Seager,572122,3B
+31,Flyin Castillo Bros.,Ronald Acuna,nan,OF
+32,Flyin Castillo Bros.,Carlos Carrasco,471911,SP
+33,Flyin Castillo Bros.,Luke Weaver,596133,SP
+34,Flyin Castillo Bros.,Bud Norris,502032,"SP, RP"
+35,Flyin Castillo Bros.,Brad Boxberger,502202,RP
+36,Flyin Castillo Bros.,Chad Green,643338,"SP, RP"
+37,Flyin Castillo Bros.,Walker Buehler,621111,SP
+38,Flyin Castillo Bros.,J.A. Happ,457918,SP
+39,Flyin Castillo Bros.,Kenta Maeda,628317,SP
+40,Flyin Castillo Bros.,Luis Castillo,622491,SP
+41,Flyin Castillo Bros.,Zack Godley,643327,SP
+42,Flyin Castillo Bros.,Garrett Richards,572070,SP
+43,Flyin Castillo Bros.,Luiz Gohara,627894,SP
+44,Flyin Castillo Bros.,Madison Bumgarner,518516,SP
+45,Flyin Castillo Bros.,Alex Reyes,621052,"SP, RP"
+46,Red Bat and Blue Bat,Buster Posey,457763,"C, 1B"
+47,Red Bat and Blue Bat,Paul Goldschmidt,502671,1B
+48,Red Bat and Blue Bat,DJ LeMahieu,518934,2B
+49,Red Bat and Blue Bat,Marwin Gonzalez,503556,"1B, 2B, 3B, SS, OF"
+50,Red Bat and Blue Bat,Manny Machado,592518,"3B, SS"
+51,Red Bat and Blue Bat,Bryce Harper,547180,OF
+52,Red Bat and Blue Bat,Carlos Santana,467793,1B
+53,Red Bat and Blue Bat,Derek Dietrich,518618,2B
+54,Red Bat and Blue Bat,Hanley Ramirez,434670,1B
+55,Red Bat and Blue Bat,Kevin Pillar,607680,OF
+56,Red Bat and Blue Bat,Salvador Perez,521692,C
+57,Red Bat and Blue Bat,Justin Turner,457759,3B
+58,Red Bat and Blue Bat,Alex Wood,622072,SP
+59,Red Bat and Blue Bat,Miles Mikolas,571945,SP
+60,Red Bat and Blue Bat,Addison Reed,592665,RP
+61,Red Bat and Blue Bat,Brandon Kintzler,445213,RP
+62,Red Bat and Blue Bat,Archie Bradley,605151,"SP, RP"
+63,Red Bat and Blue Bat,Keone Kela,605309,RP
+64,Red Bat and Blue Bat,Mike Clevinger,605182,SP
+65,Red Bat and Blue Bat,Marcus Stroman,573186,SP
+66,Red Bat and Blue Bat,Jeff Samardzija,502188,SP
+67,Red Bat and Blue Bat,Chris Archer,502042,SP
+68,Red Bat and Blue Bat,Jameson Taillon,592791,SP
+69,Red Bat and Blue Bat,Jimmy Nelson,519076,SP
